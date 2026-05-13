@@ -42,4 +42,4 @@ Fast (low hp and high speed)
 Tank (high hp and slow speed)
 
 
-Improved graphics (more detail on characters)
+Improved graphics (more detail on characters).
