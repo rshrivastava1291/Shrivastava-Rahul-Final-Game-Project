@@ -7,7 +7,7 @@ class Bullet:
         self.x = x
         self.y = y
         self.speed = 10
-        self.color = (255, 50, 50)
+        self.color = (145, 145, 145)
         self.dx = math.cos(angle) * self.speed
         self.dy = math.sin(angle) * self.speed
 
